@@ -1,0 +1,20 @@
+2021-12-14 17:50:21,650 : INFO : test_log_in : with this log I can use logging during the test, the logs will be saved in reports/logfile.log
+2021-12-14 17:50:22,133 : INFO : test_add_product : with this log I use logging during the test, the logs will be saved in reports/logfile.log
+2021-12-14 17:50:43,960 : INFO : test_log_in : with this log I can use logging during the test, the logs will be saved in reports/logfile.log
+2021-12-14 17:50:44,400 : INFO : test_add_product : with this log I use logging during the test, the logs will be saved in reports/logfile.log
+2021-12-14 17:51:28,812 : INFO : test_log_in : with this log I can use logging during the test, the logs will be saved in reports/logfile.log
+2021-12-14 17:51:29,280 : INFO : test_add_product : with this log I use logging during the test, the logs will be saved in reports/logfile.log
+2021-12-14 17:55:41,583 : INFO : test_log_in : with this log I can use logging during the test, the logs will be saved in reports/logfile.log
+2021-12-14 17:55:42,037 : INFO : test_add_product : with this log I use logging during the test, the logs will be saved in reports/logfile.log
+2021-12-14 17:56:24,371 : INFO : test_log_in : with this log I can use logging during the test, the logs will be saved in reports/logfile.log
+2021-12-14 17:56:24,830 : INFO : test_add_product : with this log I use logging during the test, the logs will be saved in reports/logfile.log
+2021-12-14 18:00:41,920 : INFO : test_log_in : with this log I can use logging during the test, the logs will be saved in reports/logfile.log
+2021-12-14 18:00:42,402 : INFO : test_add_product : with this log I use logging during the test, the logs will be saved in reports/logfile.log
+2021-12-14 18:03:41,490 : INFO : test_log_in : with this log I can use logging during the test, the logs will be saved in reports/logfile.log
+2021-12-14 18:03:41,991 : INFO : test_add_product : with this log I use logging during the test, the logs will be saved in reports/logfile.log
+2021-12-14 18:08:34,757 : INFO : test_log_in : with this log I can use logging during the test, the logs will be saved in reports/logfile.log
+2021-12-14 18:08:35,199 : INFO : test_add_product : with this log I use logging during the test, the logs will be saved in reports/logfile.log
+2021-12-14 18:09:25,859 : INFO : test_log_in : with this log I can use logging during the test, the logs will be saved in reports/logfile.log
+2021-12-14 18:09:26,301 : INFO : test_add_product : with this log I use logging during the test, the logs will be saved in reports/logfile.log
+2021-12-14 19:46:51,195 : INFO : test_log_in : with this log I can use logging during the test, the logs will be saved in reports/logfile.log
+2021-12-14 19:46:51,553 : INFO : test_add_product : with this log I use logging during the test, the logs will be saved in reports/logfile.log
