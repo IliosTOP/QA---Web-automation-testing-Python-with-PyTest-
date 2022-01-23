@@ -1,5 +1,5 @@
 ## Description
-Web Automation test based on Selenium python with pytest FrameWork. <br>
+Web Automation test based on Selenium python with pytest Framework. <br>
 - The Test uses the page object framework.
 - The data is being used from an excel sheet.
 - By default, the test runs on chrome, but it can be changed through the command line.
