@@ -1,8 +1,10 @@
-Hi!
-In this test I have used python with pytest on a website.
-I have used the page object framework, each page in the website has its own 
-page with locators and methods.
-For data I have used exel page with python's openpyxl library
+## Description
+Web Automation test based on Selenium python with pytest FrameWork. <br>
+- The Test uses the page object framework.
+- The data is being used from an excel sheet.
+- By default, the test runs on chrome, but it can be changed through the command line.
+- HTML report can be generated with the pytest-html plugin.
+- If test fails, it should take and embed screenshot in the html report.
 
 # _My Work_
 
